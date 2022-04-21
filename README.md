@@ -7,7 +7,7 @@
 
 3) <h>Future Improvements :</h>
 
-    <body>Right now, the code creates panmen and moves them across the window on the click of 2 buttons. I can try to implement both the actions onclick of a single          button.</body>
+    <body>Right now, the code creates two eyes on the screen and follows the mouse movement. I can try to implement events on click of the mouse and also on leave of             the mouse.</body>
 
 4) <h>License Information : </h>
 
